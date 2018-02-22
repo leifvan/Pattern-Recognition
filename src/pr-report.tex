@@ -101,6 +101,15 @@ We used the described method on Google Trends data about global interest in the 
 
 
 \subsection{Least Squares Technique}
+A different but also very common technique is to formulate the problem as a distance $\lVert Xw-y\lVert_2$ between a design matrix $X\in\mathbb{N\times d}$ times the solution vector $w\in\mathbb{R}^d$ and a target vector $y\in\mathbb{N}$ where
+\[X = \begin{pmatrix}
+x_1^T \\ \vdots \\ x_N^T
+\end{pmatrix}\quad y = \begin{pmatrix}
+y_1 \\ \vdots \\ y_N
+\end{pmatrix}\]
+This distance is to be minimized, so as an objective function we choose
+\[E(w) = \lVert Xw-y \lVert_2^2\]
+whereby the norm is often squared for simplicity.
 basic idea, normal equations, pseudoinverse, least squares as special case of MLE (under gaussian noise)
 example: fractal dimensions, polynomials
 \subsection{Bayesian Regression}
