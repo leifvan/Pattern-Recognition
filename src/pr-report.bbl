@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{numerical-la}
+Lloyd~N Trefethen and David Bau~III,
+\newblock {\em Numerical linear algebra}, vol.~50,
+\newblock Siam, 1997.
+
+\bibitem{pr-lecture}
+Prof. Dr.~Christian Bauckhage,
+\newblock ``lectures on {pattern recognition},'' 2017,
+\newblock notes can be found at
+  http://www.researchgate.net/project/lectures-on-pattern-recognition, accessed
+  on 2018-02-20.
+
+\bibitem{Smith1920}
+A.B. Smith, C.D. Jones, and E.F. Roberts,
+\newblock ``Article title,''
+\newblock {\em Journal}, vol. 62, pp. 291--294, January 1920.
+
+\bibitem{Jones2003}
+C.D. Jones, A.B. Smith, and E.F. Roberts,
+\newblock ``Article title,''
+\newblock in {\em Proceedings Title}. IEEE, 2003, vol.~II, pp. 803--806.
+
+\end{thebibliography}
