@@ -1,67 +1,104 @@
 \relax 
+\citation{bigdata}
 \@writefile{toc}{\contentsline {section}{\numberline {1} Introduction}{1}}
 \newlabel{sec:intro}{{1}{1}}
 \@writefile{toc}{\contentsline {section}{\numberline {2} Regression}{1}}
+\newlabel{sec:regression}{{2}{1}}
 \newlabel{eq:argmin}{{1}{1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.1} Maximum Likelihood Estimation}{1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1} Maximum Likelihood Estimation (MLE)}{1}}
+\newlabel{sec:mle}{{2.1}{1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.2} Normal and Weibull Distribution}{1}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Resulting PDF of a normal distribution maximizing the likelihood w.r.t. the body sizes from the data set introduced in \G@refundefinedtrue \text  {\normalfont  \bfseries  ??}\GenericWarning  {               }{LaTeX Warning: Reference `sec:data-used' on page 2 undefined}.}}{2}}
-\newlabel{fig:body-normal}{{1}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.3} Least Squares Technique}{2}}
-\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces MLE-fitted PDF of a Weibull distribution on Google Trends data describing the evolution of global interest in the search term \emph  {"myspace"}.}}{2}}
-\newlabel{fig:myspace-weibull}{{2}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.4} Bayesian Regression}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.5} Boolean Functions}{2}}
-\@writefile{toc}{\contentsline {section}{\numberline {3} Classification}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1} Nearest Neighbors}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2} kD-Trees}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.3} k-Means Clustering}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.4} Spectral Clustering}{2}}
+\newlabel{sec:normal-weibull}{{2.2}{1}}
 \citation{numerical-la}
 \citation{pr-lecture}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.5} Dimensionality Reduction}{3}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.6} Non-Monotonous Neurons}{3}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.7} support vector machines}{3}}
-\@writefile{toc}{\contentsline {section}{\numberline {4} numerical instabilities}{3}}
-\@writefile{toc}{\contentsline {section}{\numberline {5} conclusion}{3}}
-\@writefile{toc}{\contentsline {section}{\numberline {6} model fitting}{3}}
-\newlabel{sec:models}{{6}{3}}
-\newlabel{eq:argmin}{{2}{3}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {6.1} Least squares}{3}}
-\newlabel{eq:lstsq}{{3}{3}}
-\newlabel{eq:normal}{{4}{3}}
-\newlabel{eq:pinv}{{5}{3}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {6.2} Regression using least squares}{3}}
-\@writefile{toc}{\contentsline {section}{\numberline {7} PAGE TITLE SECTION}{3}}
-\newlabel{sec:pagestyle}{{7}{3}}
-\@writefile{toc}{\contentsline {section}{\numberline {8} TYPE-STYLE AND FONTS}{3}}
-\newlabel{sec:typestyle}{{8}{3}}
-\@writefile{toc}{\contentsline {section}{\numberline {9} MAJOR HEADINGS}{3}}
-\newlabel{sec:majhead}{{9}{3}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {9.1} Subheadings}{3}}
-\newlabel{ssec:subhead}{{9.1}{3}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {9.1.1} Sub-subheadings}{3}}
-\newlabel{sssec:subsubhead}{{9.1.1}{3}}
-\citation{Smith1920}
-\citation{Jones2003}
+\citation{fractal-geometry}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces (a) Resulting PDF of a normal distribution maximizing the likelihood w.r.t. the body sizes on the weight-height data; (b) MLE-fitted PDF of a Weibull distribution on Google Trends data.}}{2}}
+\newlabel{fig:body-normal-weibull}{{1}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3} Least Squares}{2}}
+\newlabel{sec:least-squares}{{2.3}{2}}
+\newlabel{eq:least-squares}{{2}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4} Excursion: Fractal Dimensions}{2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Images of which we estimated the fractal dimension using the box-counting method.}}{2}}
+\newlabel{fig:fractals}{{2}{2}}
+\citation{pr-lecture}
+\citation{pr-lecture}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.5} Least Squares Polynomials}{3}}
+\newlabel{sec:poly-least-squares}{{2.5}{3}}
+\newlabel{eq:poly-objfunc}{{3}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Polynomials of degrees 1 (a), 5 (b) and 10 (c) fitted to the weight-height data. Undisclosed weight data of three subjects are estimated using the model output, marked as red. In (c) we can observe an \emph  {overfitted} curve, that only gives reasonably predictions very close to known data points.}}{3}}
+\newlabel{fig:polyfit}{{3}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.6} Probabilistic Model Fitting}{3}}
+\newlabel{eq:cond-expect}{{4}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.7} Bayesian Regression}{3}}
+\newlabel{eq:bayes}{{5}{3}}
+\citation{cellauto}
+\citation{boolana}
+\citation{pr-lecture}
+\citation{kdtreebently}
+\citation{pr-lecture}
+\citation{kdtreebently}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces (a) Bi-variate Gaussian fitted to the weight-height data. (b) 5th-degree polynomial fitted to the weight-height data using Bayesian regression (blue curve) compared to the least squares regression from Fig. 3\hbox {} (dashed green curve). Predicted values marked as red.}}{4}}
+\newlabel{fig:bi-gauss}{{4}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.8} Excursion: Boolean Functions}{4}}
+\@writefile{toc}{\contentsline {section}{\numberline {3} Classification}{4}}
+\newlabel{sec:classification}{{3}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1} k-Nearest-Neighbors}{4}}
+\newlabel{sec:knn}{{3.1}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2} k-d Trees}{4}}
+\newlabel{sec:kdtrees}{{3.2}{4}}
+\citation{hartiganclustering}
+\citation{pr-lecture}
+\citation{spectralkmeans}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Results of the k-Nearest-Neighbors algorithm on a (a) set of data for (b) $k=1$, (c) $k=3$, and (d) $k=5$. Filled circles denote a correct prediction of the label. Unfilled circle are incorrectly predicted points (the color denotes the true label).}}{5}}
+\newlabel{fig:knn}{{5}{5}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Average runtimes in seconds for the combinations of building methods of a k-d-tree.}}{5}}
+\newlabel{tab:kdtree}{{1}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {4} Clustering}{5}}
+\newlabel{sec:clustering}{{4}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1} k-Means Clustering}{5}}
+\newlabel{eq:kmeans}{{6}{5}}
+\citation{normcuts}
+\citation{normcuts}
+\citation{pca}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Exemplary clustering results of three different k-means approaches for $k=3$ clusters. The colors indicate the membership of every point, plus symbols denote the centroids.}}{6}}
+\newlabel{fig:kmeans}{{6}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2} Spectral Clustering}{6}}
+\newlabel{eq:spectral-eigval}{{7}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces A non-linearly separable set of data separated by k-means for $k=2$ (a) and by spectral clustering (b). The colors indicate the membership of each data point to one of the two classes.}}{6}}
+\newlabel{fig:spectral}{{7}{6}}
+\@writefile{toc}{\contentsline {section}{\numberline {5} Dimensionality Reduction}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1} Principal Component Analysis (PCA)}{6}}
+\newlabel{sec:pca}{{5.1}{6}}
+\citation{lda}
+\citation{wolfe}
+\citation{pr-lecture}
+\citation{mercer}
+\citation{pr-lecture}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2} Linear Discriminant Analysis (LDA)}{7}}
+\newlabel{eq:lda-prob}{{8}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Projections of a labeled 500-dimensional set of data into 2D (a, b) and 3D (c, d) using PCA (a, c) and LDA (b, d). Colors denote the class membership of the points.}}{7}}
+\newlabel{fig:dimreduction}{{8}{7}}
+\@writefile{toc}{\contentsline {section}{\numberline {6} Extending Linear Classifiers}{7}}
+\newlabel{sec:ext-linear}{{6}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1} Non-Monotonous Neurons}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2} Support Vector Machines (SVM)}{7}}
 \bibstyle{IEEEbib}
 \bibdata{literature}
-\bibcite{numerical-la}{1}
-\bibcite{pr-lecture}{2}
-\bibcite{Smith1920}{3}
-\bibcite{Jones2003}{4}
-\@writefile{toc}{\contentsline {section}{\numberline {10} PRINTING YOUR PAPER}{4}}
-\newlabel{sec:print}{{10}{4}}
-\@writefile{toc}{\contentsline {section}{\numberline {11} PAGE NUMBERING}{4}}
-\newlabel{sec:page}{{11}{4}}
-\@writefile{toc}{\contentsline {section}{\numberline {12} ILLUSTRATIONS, GRAPHS, AND PHOTOGRAPHS}{4}}
-\newlabel{sec:illust}{{12}{4}}
-\@writefile{toc}{\contentsline {section}{\numberline {13} FOOTNOTES}{4}}
-\newlabel{sec:foot}{{13}{4}}
-\@writefile{toc}{\contentsline {section}{\numberline {14} COPYRIGHT FORMS}{4}}
-\newlabel{sec:copyright}{{14}{4}}
-\@writefile{toc}{\contentsline {section}{\numberline {15} REFERENCES}{4}}
-\newlabel{sec:ref}{{15}{4}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Example of placing a figure with experimental results.}}{4}}
-\newlabel{fig:res}{{3}{4}}
-\@writefile{toc}{\contentsline {section}{\numberline {16} References}{4}}
+\bibcite{bigdata}{1}
+\bibcite{numerical-la}{2}
+\bibcite{pr-lecture}{3}
+\bibcite{fractal-geometry}{4}
+\bibcite{cellauto}{5}
+\bibcite{boolana}{6}
+\bibcite{kdtreebently}{7}
+\bibcite{hartiganclustering}{8}
+\bibcite{spectralkmeans}{9}
+\bibcite{normcuts}{10}
+\bibcite{pca}{11}
+\bibcite{lda}{12}
+\bibcite{wolfe}{13}
+\bibcite{mercer}{14}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Outputs on an XOR-problem of classifiers with (a) non-linear activation function, (b) linear activation function, and (c) of a modified SVM.}}{8}}
+\newlabel{fig:neurons}{{9}{8}}
+\@writefile{toc}{\contentsline {section}{\numberline {7} Conclusion}{8}}
+\@writefile{toc}{\contentsline {section}{\numberline {8} References}{8}}

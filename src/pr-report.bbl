@@ -1,4 +1,9 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{bigdata}
+Richard~L Villars, Carl~W Olofson, and Matthew Eastwood,
+\newblock ``Big data: What it is and why you should care,''
+\newblock {\em White Paper, IDC}, vol. 14, 2011.
 
 \bibitem{numerical-la}
 Lloyd~N Trefethen and David Bau~III,
@@ -6,20 +11,72 @@ Lloyd~N Trefethen and David Bau~III,
 \newblock Siam, 1997.
 
 \bibitem{pr-lecture}
-Prof. Dr.~Christian Bauckhage,
+Christian Bauckhage,
 \newblock ``lectures on {pattern recognition},'' 2017,
 \newblock notes can be found at
-  http://www.researchgate.net/project/lectures-on-pattern-recognition, accessed
-  on 2018-02-20.
+  {http://www.researchgate.net/project/lectures-on-pattern-recognition},
+  accessed on 2018-02-20.
 
-\bibitem{Smith1920}
-A.B. Smith, C.D. Jones, and E.F. Roberts,
-\newblock ``Article title,''
-\newblock {\em Journal}, vol. 62, pp. 291--294, January 1920.
+\bibitem{fractal-geometry}
+Kenneth Falconer,
+\newblock {\em Fractal geometry: mathematical foundations and applications},
+\newblock John Wiley \& Sons, 2004.
 
-\bibitem{Jones2003}
-C.D. Jones, A.B. Smith, and E.F. Roberts,
-\newblock ``Article title,''
-\newblock in {\em Proceedings Title}. IEEE, 2003, vol.~II, pp. 803--806.
+\bibitem{cellauto}
+Stephen Wolfram,
+\newblock ``Statistical mechanics of cellular automata,''
+\newblock {\em Reviews of modern physics}, vol. 55, no. 3, pp. 601, 1983.
+
+\bibitem{boolana}
+Ryan O'Donnell,
+\newblock {\em Analysis of boolean functions},
+\newblock Cambridge University Press, 2014.
+
+\bibitem{kdtreebently}
+Jon~Louis Bentley,
+\newblock ``Multidimensional binary search trees used for associative
+  searching,''
+\newblock {\em Communications of the ACM}, vol. 18, no. 9, pp. 509--517, 1975.
+
+\bibitem{hartiganclustering}
+John~A Hartigan,
+\newblock {\em Clustering algorithms},
+\newblock John Wiley \& Sons, 1975.
+
+\bibitem{spectralkmeans}
+Inderjit~S Dhillon, Yuqiang Guan, and Brian Kulis,
+\newblock ``Kernel k-means: spectral clustering and normalized cuts,''
+\newblock {\em Proceedings of the tenth ACM SIGKDD international conference on
+  Knowledge discovery and data mining}, pp. 551--556, 2004.
+
+\bibitem{normcuts}
+Jianbo Shi and Jitendra Malik,
+\newblock ``Normalized cuts and image segmentation,''
+\newblock {\em IEEE Transactions on pattern analysis and machine intelligence},
+  vol. 22, no. 8, pp. 888--905, 2000.
+
+\bibitem{pca}
+Herv{\'e} Abdi and Lynne~J Williams,
+\newblock ``Principal component analysis,''
+\newblock {\em Wiley interdisciplinary reviews: computational statistics}, vol.
+  2, no. 4, pp. 433--459, 2010.
+
+\bibitem{lda}
+Ronald~A Fisher,
+\newblock ``The statistical utilization of multiple measurements,''
+\newblock {\em Annals of Human Genetics}, vol. 8, no. 4, pp. 376--386, 1938.
+
+\bibitem{wolfe}
+Philip Wolfe,
+\newblock ``The simplex method for quadratic programming,''
+\newblock {\em Econometrica: Journal of the Econometric Society}, pp. 382--398,
+  1959.
+
+\bibitem{mercer}
+BA~J~Mercer,
+\newblock ``Xvi. functions of positive and negative type, and their connection
+  the theory of integral equations,''
+\newblock {\em Phil. Trans. R. Soc. Lond. A}, vol. 209, no. 441-458, pp.
+  415--446, 1909.
 
 \end{thebibliography}

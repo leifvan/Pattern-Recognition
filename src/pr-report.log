@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.21)  22 FEB 2018 21:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.21)  27 FEB 2018 00:20
 entering extended mode
 **./pr-report.tex
 (pr-report.tex
@@ -112,26 +112,22 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (pr-report.aux
-
-LaTeX Warning: Label `eq:argmin' multiply defined.
-
-)
+)) (pr-report.aux)
 \openout1 = `pr-report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 44.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 42.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -201,41 +197,31 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
-LaTeX Font Info:    Try loading font information for U+msa on input line 47.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+LaTeX Font Info:    Try loading font information for U+msa on input line 45.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 47.
+LaTeX Font Info:    Try loading font information for U+msb on input line 45.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+<img/normal_mle.png, id=1, 281.853pt x 209.583pt>
+File: img/normal_mle.png Graphic file (type png)
+<use img/normal_mle.png>
+Package pdftex.def Info: img/normal_mle.png  used on input line 80.
+(pdftex.def)             Requested size: 113.81102pt x 84.628pt.
+<img/weibull_mle.png, id=3, 289.08pt x 216.81pt>
+File: img/weibull_mle.png Graphic file (type png)
+<use img/weibull_mle.png>
+Package pdftex.def Info: img/weibull_mle.png  used on input line 87.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
 
-
-LaTeX Warning: Reference `sec:data-used' on page 1 undefined on input line 79.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--80
-
- []
-
-<img/project1/plot2.png, id=1, 462.528pt x 346.896pt>
-File: img/project1/plot2.png Graphic file (type png)
-<use img/project1/plot2.png>
-Package pdftex.def Info: img/project1/plot2.png  used on input line 83.
-(pdftex.def)             Requested size: 241.84842pt x 181.38736pt.
-
-LaTeX Warning: Reference `sec:data-used' on page 1 undefined on input line 84.
-
-
-LaTeX Warning: Reference `sec:data-used' on page 1 undefined on input line 84.
-
-
-Overfull \hbox (3.05122pt too wide) detected at line 91
+Overfull \hbox (3.05122pt too wide) detected at line 100
 \OML/cmm/m/it/10 L\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 ) = \OM
 L/cmm/m/it/10 N\OT1/cmr/m/n/10 ([] \OML/cmm/m/it/10  \OMS/cmsy/m/n/10   \OML/c
 mm/m/it/10  [] \OT1/cmr/m/n/10 ) + (\OML/cmm/m/it/10  \OMS/cmsy/m/n/10   \OT
@@ -247,75 +233,193 @@ mm/m/it/10  [] \OT1/cmr/m/n/10 ) + (\OML/cmm/m/it/10  \OMS/cmsy/m/n/10   \OT
 
 
 ]
-<img/project1/plot3.png, id=21, 462.528pt x 346.896pt>
-File: img/project1/plot3.png Graphic file (type png)
-<use img/project1/plot3.png>
-Package pdftex.def Info: img/project1/plot3.png  used on input line 97.
-(pdftex.def)             Requested size: 241.84842pt x 181.38736pt.
-Missing character: There is no d in font msbm10!
- [2 <./img/project1/plot2.png> <./img/project1/plot3.png>] [3]
-<image1.pdf, id=30, 261.97874pt x 58.2175pt>
-File: image1.pdf Graphic file (type pdf)
-<use image1.pdf>
-Package pdftex.def Info: image1.pdf  used on input line 297.
-(pdftex.def)             Requested size: 241.84842pt x 53.7455pt.
-<image3.pdf, id=31, 231.86626pt x 143.53625pt>
-File: image3.pdf Graphic file (type pdf)
-<use image3.pdf>
-Package pdftex.def Info: image3.pdf  used on input line 304.
-(pdftex.def)             Requested size: 113.81102pt x 70.45602pt.
-<image4.pdf, id=32, 231.86626pt x 143.53625pt>
-File: image4.pdf Graphic file (type pdf)
-<use image4.pdf>
-Package pdftex.def Info: image4.pdf  used on input line 311.
-(pdftex.def)             Requested size: 113.81102pt x 70.45602pt.
- (pr-report.bbl
-Underfull \hbox (badness 2103) in paragraph at lines 9--14
-[]\OT1/ptm/m/n/10 Prof. Dr. Chris-tian Bauck-hage,  ``lec-tures on pat-
+<img/tree.png, id=22, 513.92pt x 513.92pt>
+File: img/tree.png Graphic file (type png)
+<use img/tree.png>
+Package pdftex.def Info: img/tree.png  used on input line 126.
+(pdftex.def)             Requested size: 113.81102pt x 113.80771pt.
+<img/lightning.png, id=23, 513.92pt x 513.92pt>
+File: img/lightning.png Graphic file (type png)
+<use img/lightning.png>
+Package pdftex.def Info: img/lightning.png  used on input line 134.
+(pdftex.def)             Requested size: 113.81102pt x 113.80771pt.
+ [2 <./img/normal_mle.png> <./img/weibull_mle.png> <./img/tree.png> <./img/ligh
+tning.png>]
+<img/poly1plot.png, id=29, 289.08pt x 216.81pt>
+File: img/poly1plot.png Graphic file (type png)
+<use img/poly1plot.png>
+Package pdftex.def Info: img/poly1plot.png  used on input line 177.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/poly5plot.png, id=30, 289.08pt x 216.81pt>
+File: img/poly5plot.png Graphic file (type png)
+<use img/poly5plot.png>
+Package pdftex.def Info: img/poly5plot.png  used on input line 184.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/poly10plot.png, id=31, 289.08pt x 216.81pt>
+File: img/poly10plot.png Graphic file (type png)
+<use img/poly10plot.png>
+Package pdftex.def Info: img/poly10plot.png  used on input line 191.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/contours.png, id=32, 289.08pt x 216.81pt>
+File: img/contours.png Graphic file (type png)
+<use img/contours.png>
+Package pdftex.def Info: img/contours.png  used on input line 225.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/bayes.png, id=33, 289.08pt x 216.81pt>
+File: img/bayes.png Graphic file (type png)
+<use img/bayes.png>
+Package pdftex.def Info: img/bayes.png  used on input line 232.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+ [3 <./img/poly1plot.png> <./img/poly5plot.png> <./img/poly10plot.png>]
+<img/NNdata.png, id=40, 289.08pt x 216.81pt>
+File: img/NNdata.png Graphic file (type png)
+<use img/NNdata.png>
+Package pdftex.def Info: img/NNdata.png  used on input line 265.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/1NN.png, id=41, 289.08pt x 216.81pt>
+File: img/1NN.png Graphic file (type png)
+<use img/1NN.png>
+Package pdftex.def Info: img/1NN.png  used on input line 272.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/3NN.png, id=42, 289.08pt x 216.81pt>
+File: img/3NN.png Graphic file (type png)
+<use img/3NN.png>
+Package pdftex.def Info: img/3NN.png  used on input line 279.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/5NN.png, id=43, 289.08pt x 216.81pt>
+File: img/5NN.png Graphic file (type png)
+<use img/5NN.png>
+Package pdftex.def Info: img/5NN.png  used on input line 286.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--290
+[][] []
+ []
+
+[4 <./img/contours.png> <./img/bayes.png>]
+Underfull \vbox (badness 3439) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 328--329
+[]\OT1/ptm/m/n/10 a move-ment rule de-ter-min-ing the re-as-sign-ment of
+ []
+
+<img/lloyd.png, id=49, 289.08pt x 216.81pt>
+File: img/lloyd.png Graphic file (type png)
+<use img/lloyd.png>
+Package pdftex.def Info: img/lloyd.png  used on input line 338.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/hartigan.png, id=50, 289.08pt x 216.81pt>
+File: img/hartigan.png Graphic file (type png)
+<use img/hartigan.png>
+Package pdftex.def Info: img/hartigan.png  used on input line 345.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/macqueen.png, id=51, 289.08pt x 216.81pt>
+File: img/macqueen.png Graphic file (type png)
+<use img/macqueen.png>
+Package pdftex.def Info: img/macqueen.png  used on input line 353.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+[5 <./img/NNdata.png> <./img/1NN.png> <./img/3NN.png> <./img/5NN.png>]
+<img/project3/task_3_2_kmeans.pdf, id=59, 393.37088pt x 287.35744pt>
+File: img/project3/task_3_2_kmeans.pdf Graphic file (type pdf)
+<use img/project3/task_3_2_kmeans.pdf>
+Package pdftex.def Info: img/project3/task_3_2_kmeans.pdf  used on input line 3
+74.
+(pdftex.def)             Requested size: 113.81102pt x 83.13858pt.
+<img/project3/task_3_2_spectral4.pdf, id=60, 393.37088pt x 299.02603pt>
+File: img/project3/task_3_2_spectral4.pdf Graphic file (type pdf)
+<use img/project3/task_3_2_spectral4.pdf>
+Package pdftex.def Info: img/project3/task_3_2_spectral4.pdf  used on input lin
+e 380.
+(pdftex.def)             Requested size: 113.81102pt x 86.51456pt.
+ [6 <./img/lloyd.png> <./img/hartigan.png> <./img/macqueen.png> <./img/project3
+/task_3_2_kmeans.pdf> <./img/project3/task_3_2_spectral4.pdf
+
+pdfTeX warning: pdflatex (file ./img/project3/task_3_2_spectral4.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+>]
+<img/pca_2d.png, id=102, 289.08pt x 216.81pt>
+File: img/pca_2d.png Graphic file (type png)
+<use img/pca_2d.png>
+Package pdftex.def Info: img/pca_2d.png  used on input line 409.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/lda_2d.png, id=103, 289.08pt x 216.81pt>
+File: img/lda_2d.png Graphic file (type png)
+<use img/lda_2d.png>
+Package pdftex.def Info: img/lda_2d.png  used on input line 416.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/pca_3d.png, id=104, 289.08pt x 216.81pt>
+File: img/pca_3d.png Graphic file (type png)
+<use img/pca_3d.png>
+Package pdftex.def Info: img/pca_3d.png  used on input line 423.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/lda_3d.png, id=105, 289.08pt x 216.81pt>
+File: img/lda_3d.png Graphic file (type png)
+<use img/lda_3d.png>
+Package pdftex.def Info: img/lda_3d.png  used on input line 430.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--434
+[][] []
+ []
+
+<img/gauss.png, id=106, 289.08pt x 216.81pt>
+File: img/gauss.png Graphic file (type png)
+<use img/gauss.png>
+Package pdftex.def Info: img/gauss.png  used on input line 456.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/tanh.png, id=107, 289.08pt x 216.81pt>
+File: img/tanh.png Graphic file (type png)
+<use img/tanh.png>
+Package pdftex.def Info: img/tanh.png  used on input line 463.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+<img/svm.png, id=108, 289.08pt x 216.81pt>
+File: img/svm.png Graphic file (type png)
+<use img/svm.png>
+Package pdftex.def Info: img/svm.png  used on input line 471.
+(pdftex.def)             Requested size: 113.81102pt x 85.35614pt.
+[7 <./img/pca_2d.png> <./img/lda_2d.png> <./img/pca_3d.png> <./img/lda_3d.png>]
+(pr-report.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 14--19
+[]\OT1/ptm/m/n/10 Christian Bauck-hage,  ``lec-tures on pat-tern
  []
 
 
-Underfull \hbox (badness 2875) in paragraph at lines 9--14
-\OT1/ptm/m/n/10 tern recog-ni-tion,'' 2017,  notes can be found at
+Underfull \hbox (badness 10000) in paragraph at lines 14--19
+\OT1/ptm/m/n/10 recog-ni-tion,'' 2017,  notes can be found at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--14
-\OT1/ptm/m/n/10 http://www.researchgate.net/project/lectures-on-pattern-
+Underfull \hbox (badness 10000) in paragraph at lines 14--19
+\OT1/ptm/m/n/10 http://www.researchgate.net/project/lectures-on-
  []
 
-) [4 <./image1.pdf> <./image3.pdf> <./image4.pdf>] (pr-report.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+) [8 <./img/gauss.png> <./img/tanh.png> <./img/svm.png>] (pr-report.aux) ) 
 Here is how much of TeX's memory you used:
- 2469 strings out of 493312
- 32374 string characters out of 3138898
- 95232 words of memory out of 3000000
- 5969 multiletter control sequences out of 15000+200000
- 20788 words of font info for 54 fonts, out of 3000000 for 9000
+ 2596 strings out of 493312
+ 34615 string characters out of 3138898
+ 96318 words of memory out of 3000000
+ 6073 multiletter control sequences out of 15000+200000
+ 23590 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,26p,556b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
-5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times
-/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on pr-report.pdf (4 pages, 416213 bytes).
+ 41i,8n,26p,914b,283s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/P
+rogram Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on pr-report.pdf (8 pages, 1154913 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
+ 168 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 

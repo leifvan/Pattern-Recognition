@@ -192,7 +192,7 @@ In \textsc{Task 2.1} we applied this idea to the aforementioned weight-height da
 %  \vspace{1.5cm}
   \centerline{(c) $d=10$}
 \end{minipage}
-\caption{Polynomials of degrees 1 (a), 5 (b) and 10 (c) fitted to the weight-height data. Undisclosed weight data of three subjects are estimated using the model output, marked as red. In (c) we can observe an \emph{overfitted} curve, that only gives reasonably predictions very close to known data points.}
+\caption{Polynomials of degrees 1 (a), 5 (b) and 10 (c) fitted to the data containing height and weight of subjects. Undisclosed weight data of three subjects are estimated using the model output, marked as red.}
 \label{fig:polyfit}
 %
 \end{figure}
@@ -482,7 +482,7 @@ As seen in the lecture, the kernel trick can be easily applied to support vector
 In this report, we presented our solutions for the three different projects we worked on in the course of the lecture. In \textsc{Project 1} one we have seen how to fit simple and more complex probability distributions to data using maximum likelihood estimation. We also applied linear regression to estimate the fractal dimension of given images.\par
 \textsc{Project 2} was about different methods to predict missing values, namely via least squares polynomials, conditional expectation, and Bayesian regression. We concluded that, though the computation is more involved, the Bayesian approach yielded a superior model compared to the other methods. Next, we looked at the nearest-neighbor classifier and improved the runtime using k-d-trees.\par
 Finally in \textsc{Project 3}, we applied two clustering algorithms: k-means and spectral clustering. As they are prone to deliver suboptimal results for high-dimensional input spaces, we used principal component analysis and Fisher's linear discriminant analysis for dimensionality reduction. Furthermore, we took two classic linear classifiers, (i) the perceptron and (ii) the support vector machine, and implemented approaches to be capable of handling non-linearly separable data. For (i) we used a non-linear activation function and for (ii) we utilized the kernel trick to accomplish the goal. Both techniques were then able to solve the XOR-problem.\par
-All in all the work showed that, though a multitude of approaches exist to analyze data in various ways today, one has to be aware of numerical pitfalls when using computers. Also, there is often no obvious approach to choose for the problem at hand. Nevertheless, pattern recognition provides a powerful toolset of which we have only scratched the surface.
+All in all the work showed that, though a multitude of approaches exist to analyze data in various ways today, one has to be aware of pitfalls when using computers, as they are prone to numerical errors. Also, there is often no obvious approach to choose for the problem at hand. Nevertheless pattern recognition provides a powerful toolset of which we have only scratched the surface.
 
 
 % References should be produced using the bibtex program from suitable
